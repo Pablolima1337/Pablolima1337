@@ -1,4 +1,4 @@
-# 👾🀄 Pablo Lima
+# Pablo Lima👾🀄
 
 **`Sobre my People!`**
 
@@ -6,6 +6,11 @@ Me chamo Pablo Lima, tenho 22 anos. Sou gamer, desenvolvedor e **estudante de in
 Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que as pessoas possam ganhar mais tempo em determinadas tarefas.
 
 **Sejam muito bem-vindos ao meu GitHub!!!**
+
+<p align="center">
+  <img height="100%" src="https://cdn.discordapp.com/attachments/1234655119027474524/1557776887579942972/Bruno_Pixels.gif?ex=6ac90848&is=6ac7b6c8&hm=29f1f82e2f1b4ccfcd727021f49ed28943aea690ee165462d67c738c3911bda2&">
+</p>
+
 <p align="center">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
@@ -29,15 +34,13 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
         />
     </a>
 </p>
-<p align="center">
-  <img height="100%" src="https://cdn.discordapp.com/attachments/1234655119027474524/1557776887579942972/Bruno_Pixels.gif?ex=6ac90848&is=6ac7b6c8&hm=29f1f82e2f1b4ccfcd727021f49ed28943aea690ee165462d67c738c3911bda2&">
-</p>
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<p align="center">
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="50px" 
@@ -45,7 +48,6 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="50px" 
@@ -53,7 +55,6 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="50px" 
@@ -61,7 +62,6 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="50px" 
@@ -69,7 +69,6 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="50px" 
@@ -77,7 +76,6 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="50px" 
@@ -85,24 +83,23 @@ Gosto de desenvolver aplicações que **resolvam problemas do dia a dia** e que 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Playwright" 
+    title="Playwright"
     width="50px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
+    alt="ElectronJS" 
+    title="ElectronJS"
     width="50px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
 />
+</p>
 
-<br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
